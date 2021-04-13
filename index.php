@@ -1,1 +1,1 @@
-<?php include_once('pratikum_ajak.html');
+<?php include_once('pratikum_ajax.html');
